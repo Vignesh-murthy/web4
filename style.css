@@ -1,0 +1,66 @@
+h1{
+  font-size: 90px;
+  font-family: 'Poppins', sans-serif;
+  margin: 50px 50px 0px 50px;
+}
+#creative{
+  color: blue;
+}
+#logo{
+  position: relative;
+  left: 30px;
+  top: 20px;
+}
+p{
+  font-size: 30px;
+}
+#left.card #beauty{
+ float: left;
+ position: relative;
+ background-color: aquamarine;
+
+ 
+ }
+#beauty{
+
+  height: 200px;
+  width: 300px;
+  margin: 50px;
+}
+#cons{
+  float: right;
+   height: 200px;
+   width: 300px;
+   margin: 50px;
+}
+#second{
+  flex: 1;
+  text-align: center;
+}
+#right{
+ 
+ float: right;
+ background-color: #CBFFA9;
+
+ 
+}
+
+
+#main{
+  background-color:#22A699;
+ 
+  
+
+  
+}
+.class{
+  color: black;
+  float: both;
+}
+.card{
+  width: 45%;
+}
+#try{
+  background-color: blue;
+  width: 100%;
+}
